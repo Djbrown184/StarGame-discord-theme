@@ -50,6 +50,64 @@
 
 /*@import "https://djbrown184.github.io/StarGame-discord-theme/alignment/bottom/bottom.css"; /* ❌ Guild alignment on the bottom. */
 
+
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Addons (Bubbles)         ║ To disable certain things, you can comment out the lines. Use "/* " in front.           ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/bubbles/two.css"; /* ✔️ This adds chat bubbles on the left side. */
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Addons                   ║ To disable certain things, you can comment out the lines. Use "/* " in front.           ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/addons/drag.css"; /* 🧪 Adds a general drag zone for the background. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/status.css"; /* ✔️ Old Status */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/discolored.css"; /* ✔️ This replaces discord's SVGs with a colored version. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/bad-http.css"; /* ✔️ Links without SSL encryption are displayed in red. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/minimal-panel.css"; /* ✔️ Adds a Hover effects for the panel menu automatically (Spotify, Voice, Games...). */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/folder-color.css"; /* ✔️ This changes the folder color & shows the normal version on hover. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/neutral-usernames.css"; /* ✔️ Usernames are displayed in the accent color of the theme. (only light theme) */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/addons/white-icons.css"; /* ✔️ White Icons */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/addons/blur-details.css"; /* ❌ Blur on Details */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/addons/blur-spoiler.css"; /* ❌ Blur on Spoiler */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/addons/blur-link.css"; /* ❌ Blur on Links */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/addons/no-spotify.css"; /* ❌ No Spotify */
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Animations               ║ To disable certain things, you can comment out the lines. Use "/* " in front.           ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+/*@import "https://djbrown184.github.io/StarGame-discord-theme/animations/ping.css"; /* ❌ This adds a ping animation. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/animations/spotify.css"; /* ✔️ This adds a cover spin animation to the spotify panel. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/animations/buttons.css"; /* ✔️ This adds animation to the guild navigation. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/animations/avatar.css"; /* ✔️ This adds a hover animation to the avatar. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/animations/icons.css"; /* ✔️ This adds a hover animation to the icons. */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/animations/clickable.css"; /* ✔️ This adds a hover animation to the icons. */
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ SRC                      ║ Do not comment out these lines! By disabling the theme can not work correctly.          ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+@import "https://djbrown184.github.io/StarGame-discord-theme/src/source.css"; /* ⚠️ (Warning!! Do not disable it!) */
+
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ Quick CSS                ║ Do not comment out these lines! By disabling the theme can not work correctly.          ║ */
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
